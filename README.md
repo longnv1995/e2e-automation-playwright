@@ -7,7 +7,7 @@ The tests are executed via both `Jenkins` pipeline and `GitHub Actions`
 
 A comprehensive testing framework that
 
-- Combines UI, API, Visual, and Performance testing in one solution
+- Combines E2E, API, Visual in one solution
 - Integrated with CI/CD pipelines and automated reporting systems.
 
 ## ✨ Features
